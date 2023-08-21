@@ -2,10 +2,3 @@ more text
 fg
 fg
 f
-gfg
-fg
-gf
-fg
-gf
-fgh
-gfh
