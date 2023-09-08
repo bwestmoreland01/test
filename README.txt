@@ -1,3 +1,1 @@
-tex
-k
-k
+text
