@@ -4,8 +4,6 @@ sess
 fefs
 efse
 fse
-sdf
-asdfasdf
 asd
 fd
 fs
